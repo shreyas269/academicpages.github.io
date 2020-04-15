@@ -1,6 +1,5 @@
 ---
 title: "Determining the Optimal Fuzzifier Range for Alpha-Planes of General Type-2 Fuzzy Sets"
-**Shreyas Kulkarni**, Rishabh Agrawal, Frank Chung-Hoon Rhee
 collection: publications
 permalink: /research/fuzz-ieee/optimal-fuzzifier
 date: 2018-07-08
