@@ -3,8 +3,8 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - /md/
+  - /markdown.html
 ---
 
 #### Determining the Optimal Fuzzifier Range for Alpha-Planes of General Type-2 Fuzzy Sets
