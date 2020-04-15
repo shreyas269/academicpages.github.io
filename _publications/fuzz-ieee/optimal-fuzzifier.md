@@ -1,7 +1,7 @@
 ---
 title: "Determining the Optimal Fuzzifier Range for Alpha-Planes of General Type-2 Fuzzy Sets"
 collection: publications
-permalink: /research/fuzz-ieee/optimal-fuzzifier
+permalink: /publications/fuzz-ieee/optimal-fuzzifier
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8491556'
 ---
 
