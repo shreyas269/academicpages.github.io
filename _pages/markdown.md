@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-* ## Determining the Optimal Fuzzifier Range for Alpha-Planes of General Type-2 Fuzzy Sets ##  
+* [Determining the Optimal Fuzzifier Range for Alpha-Planes of General Type-2 Fuzzy Sets](https://ieeexplore.ieee.org/abstract/document/8491556)  
   **Shreyas Kulkarni**, Rishabh Agrawal, Frank Chung-Hoon Rhee.  
   2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2018).  
   
