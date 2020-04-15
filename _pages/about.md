@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 Hello! It seems you have stumbled on my homepage.
 
 I'm Shreyas Kulkarni, an incoming PhD student in Computer Science at [UMass Amherst](https://www.cics.umass.edu). My primary research interests are in Security and Privacy of AI systems. Specifically, I am interested in Algorithmic Security and Privacy including the theory of Differential Privacy, as well as it's application in enhancing privacy of Machine Learning Algorithms.
