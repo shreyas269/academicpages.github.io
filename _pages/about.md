@@ -22,5 +22,5 @@ Updates
 ======
 * **Sep 2019:** Started working as a Researcher at the National University of Singapore.
 * **July 2018:** Started working as a software engineer at Symantec in the Big Data Team.
-* **July 2019:** Presented my first conference paper at FUZZ-IEEE held in Brazil.
+* **July 2018:** Presented my first conference paper at FUZZ-IEEE held in Brazil.
 * **May 2018:** Graduated from IIT Guwahati.
