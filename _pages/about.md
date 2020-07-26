@@ -25,6 +25,7 @@ Updates
 * **July 2018:** Presented my first conference paper at FUZZ-IEEE held in Brazil.
 * **May 2018:** Graduated from IIT Guwahati.
 
+
 Contact me at `svkulkarni#cs.umass.edu`
 
 Replace `#` with `@`
