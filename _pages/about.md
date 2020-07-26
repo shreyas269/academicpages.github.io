@@ -26,4 +26,5 @@ Updates
 * **May 2018:** Graduated from IIT Guwahati.
 
 Contact me at `svkulkarni#cs.umass.edu`
+
 Replace `#` with `@`
