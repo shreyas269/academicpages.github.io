@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shreyas Kulkarni"
   avatar           : "profile.png"
-  bio              : "Researcher at NUS | Incoming PhD CS student at UMass Amherst | IIT Guwahati"
-  location         : "Singapore"
+  bio              : "First year PhD student at UMass Amherst | NUS | IIT Guwahati"
+  location         : "India"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9Xck6WYAAAAJ"
-  email            : shreyas.gp269@gmail.com
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
