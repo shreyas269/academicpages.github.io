@@ -22,7 +22,7 @@ Updates
 * **Aug 2020:** Started my Ph.D. at UMass Amherst.
 * **Sep 2019:** Started working as a Researcher at the National University of Singapore.
 * **July 2018:** Started working as a software engineer at Symantec in the Big Data Team.
-* **July 2018:** Presented my first conference paper at FUZZ-IEEE held in Brazil.
+* **July 2018:** Presented my first conference paper at 2018 FUZZ-IEEE, Rio.
 * **May 2018:** Graduated from IIT Guwahati.
 
 
