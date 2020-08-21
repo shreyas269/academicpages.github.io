@@ -10,16 +10,16 @@ redirect_from:
 
 Hello! It seems you have stumbled on my homepage.
 
-I'm Shreyas Kulkarni, an incoming PhD student in Computer Science at [UMass Amherst](https://www.cics.umass.edu). My primary research interests are in Security and Privacy of AI systems. Specifically, I am interested in Algorithmic Security and Privacy including the theory of Differential Privacy, as well as it's application in enhancing privacy of Machine Learning Algorithms.
+I'm Shreyas Kulkarni, a first year Ph.D. student in Computer Science in the [College of Information & Computer Sciences](https://www.cics.umass.edu) at the [University of Massachusetts Amherst](https://www.umass.edu). My primary research interests are in Security and Privacy of AI systems. Specifically, I am interested in Algorithmic Security and Privacy and developing robust learning algorithms. Other than that, I am also interested in Game Theory, Statistics and Learning Theory.
 
-I am working in the broad area of Adversarial ML, specifically Provable ML Robustness and Differential Privacy in ML in the Security Group at [National University of Singapore](https://www.comp.nus.edu.sg) mentored by [Dr. Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/). I completed my undergraduate studies in Engineering Physics and Mathematics from [IIT Guwahati](https://www.iitg.ac.in).
+Before starting my Ph.D. I worked in the broad area of Adversarial ML at the [National University of Singapore](https://www.comp.nus.edu.sg) and was fortunate to be mentored by [Dr. Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/). Prior to that, I worked as a software engineer at [Symantec](https://www.nortonlifelock.com/us/en) building products on the big-data stack to help in Cyber Safety of consumers. 
+I completed my undergraduate studies in Engineering Physics and Mathematics from [IIT Guwahati](https://www.iitg.ac.in).
 
-I am also interested in Statistics and Computational Learning Theory. Lately, I've been reading about the design of auctions and other pricing mechanisms with guarantees.
-
-My hobbies include playing Soccer, Squash, solving puzzles, watching movies and reading non-fiction books.
+My hobbies include playing soccer, squash, solving puzzles, watching movies and reading non-fiction books.
 
 Updates
 ======
+* **Aug 2020:** Started my Ph.D. at UMass Amherst.
 * **Sep 2019:** Started working as a Researcher at the National University of Singapore.
 * **July 2018:** Started working as a software engineer at Symantec in the Big Data Team.
 * **July 2018:** Presented my first conference paper at FUZZ-IEEE held in Brazil.
